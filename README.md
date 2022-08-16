@@ -78,7 +78,7 @@ for ([initialization]; [condition]; [iteration]) {
 
 **_Usage_**: Use a `for` loop when you know how many times you want the loop to
 run (for example, when you're looping through elements in an array).
-
+/
 ### Examples
 
 Let's take a look at an example and get some practice using the Node debugger.
